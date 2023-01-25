@@ -14,7 +14,7 @@ int main(int argc, char **argv)
         printf("Usage: tobuffer <file> <output_file> <options>\n");
         printf("Options:\n");
         printf("  -ps prefix%ssuffix  to add the prefix and suffix name example: tobuffer -ps 'const char * fonData = \"%s\";'\n", SEPARATOR, SEPARATOR);
-        printf("  you can use %s and %s where %s is the size and %s is an optional size\n", SEPARATOR_LEN, SEPARATOR, SEPARATOR_LEN, SEPARATOR);
+        printf("  you can use %s and %s where %s is the size and %s is an the content\n", SEPARATOR_LEN, SEPARATOR, SEPARATOR_LEN, SEPARATOR);
         return 1;
     }
 
