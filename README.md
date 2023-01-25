@@ -17,7 +17,7 @@ Options:
 <h3>example<h3>
 <h4>example 1</h4>
 ![image](https://user-images.githubusercontent.com/108258194/214454673-5276b86d-299a-4315-b4cf-b99827dfdd68.png)
-<p>result where the content of FILE.txt is "hELLO"<p>
+<p>result where the content of FILE.txt is "hELLO"</p>
 ![image](https://user-images.githubusercontent.com/108258194/214454929-fbe7f955-392c-437b-a65a-c6197ddd8527.png)
 <h2>example 2</h4>
 ![image](https://user-images.githubusercontent.com/108258194/214455582-4c4a01eb-416f-40a0-bb27-7b70c8682a67.png)
