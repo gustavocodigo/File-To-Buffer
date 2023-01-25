@@ -9,5 +9,5 @@ tobuffer file output_file options
 
 
 Options:
-  -ps prefix[content]suffix  to add the prefix and suffix name example: tobuffer -ps 'const char * fonData = "[content]";'
+  -ps prefix[content]suffix  to add the prefix and suffix name example: tobuffer -ps 'const char * fonData = "[content]";'<br>
   you can use [size] and [content] where [size] is the optional size and [content] is the content.
