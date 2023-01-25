@@ -1,5 +1,5 @@
 # File-To-Buffer
-<h1>Simple data to buffer this file converts any file to a buffer of chars, good to embed Photos, Fonts memory in projects.,</h1>
+<p>Simple data to buffer this file converts any file to a buffer of chars, good to embed Photos, Fonts memory in projects.,</p>
 
 
 <h2>Build</h2>
