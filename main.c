@@ -95,7 +95,7 @@ int main(int argc, char **argv)
         }
         while ((c = fgetc(file)) > -1)
         {
-            fprintf(outputFile, "\\%i", c);
+            fprintf(outputFile, "\\x%x", c);
         }
         if (separator_suffix_pointer)
         {
