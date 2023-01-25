@@ -3,7 +3,7 @@
 
 
 <h2>Build</h2>
-gcc main.c -o tobuffer
+gcc main.c -o tobuffer<br><br>
 <p>
 This line is optional to add to the system linux so you can call directly with terminal in any path as a command.</p>
 <p>sudo mv ./tobuffer /bin/tobuffer</p>
