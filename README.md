@@ -4,6 +4,10 @@
 
 <h2>Build</h2>
 gcc main.c -o tobuffer
+<p>
+This line is optional to add to the system linux so you can call directly with terminal in any path as a command.</p>
+<p>sudo mv ./tobuffer /bin/tobuffer</p>
+
 <h2>Usage</h2>
 tobuffer file output_file options
 
